@@ -14,7 +14,7 @@
 This project builds a **real-time data pipeline** using the **Modern Data Stack**.
 It ingests live stock market data, processes it in real time, and delivers analytics-ready insights.
 
-![Architecture (1)](https://github.com/user-attachments/assets/6b49eb4d-4bf7-473d-9281-50c20b241760)
+![Project Diagram ]([https://github.com/user-attachments/assets/6b49eb4d-4bf7-473d-9281-50c20b241760](https://raw.githubusercontent.com/HazemmoAlsady/real-time-sotcks-mds/main/assets/real_time_stock_dataa.png))
 
 ---
 
