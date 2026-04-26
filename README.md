@@ -5,7 +5,7 @@
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake\&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi\&logoColor=black)
+
 
 ---
 
@@ -24,7 +24,7 @@ It ingests live stock market data, processes it in real time, and delivers analy
 * **Snowflake** → Data warehouse
 * **DBT** → Data transformation
 * **Docker** → Containerization
-* **Power BI** → Visualization
+
 
 ---
 
@@ -34,7 +34,7 @@ It ingests live stock market data, processes it in real time, and delivers analy
 * ⚡ Streaming pipeline using Kafka
 * 🔄 Automated workflows with Airflow
 * 🧱 Data modeling (Bronze → Silver → Gold)
-* 📊 Interactive dashboards in Power BI
+
 
 ---
 
